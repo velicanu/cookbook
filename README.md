@@ -33,3 +33,13 @@ Add eno (baking soda) just before frying the batter.
 For tempering, use sesame seeds, mustard seeds, curry leaves and hing.
 
 Cook 10 minutes per side, covered. Redo tempering for the other side.
+
+
+### Pictures
+Batter
+![Handvo batter](img/handvo-1.jpg?raw=true "Handvo batter")
+Tempering
+![Handvo tempering](img/handvo-2.jpg?raw=true "Handvo tempering")
+Cooking
+![Handvo cooking](img/handvo-3.jpg?raw=true "Handvo cooking")
+
